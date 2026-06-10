@@ -1,0 +1,15 @@
+Domain: homelab.local
+For the user's login (UserPrincipalName): username@homelab.local
+For where users get created (the-Path): CN=Users,DC=Homelab,DC=Local
+
+
+
+
+
+
+
+CSV FILE: 
+FirstName,LastName,Username,Department
+John,Doe,jdoe,Sales
+Sarah,Lee,Slee,It
+Mike,Ray,mray,Finance
