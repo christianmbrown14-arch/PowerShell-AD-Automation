@@ -40,9 +40,15 @@ Import-Csv "C:\newusers.csv" | ForEach-Object {
 
 ## Screenshots
 
+<img width="1024" height="768" alt="Domain im working with picture 1" src="https://github.com/user-attachments/assets/1e1bb2e4-13ec-4fd9-9dd2-76470a96c425" />
 
+<img width="1024" height="768" alt="02-get-aduser-all" src="https://github.com/user-attachments/assets/b2b6674e-4575-4039-ba34-5e44a2ea10fb" />
 
+<img width="1024" height="768" alt="03_new-aduser-single" src="https://github.com/user-attachments/assets/249af749-1c70-45ef-91e4-0d40ee729838" />
 
+<img width="1024" height="768" alt="04-bulk-create-verify" src="https://github.com/user-attachments/assets/5d92e910-4198-4af6-ba49-bc97b57940d9" />
+
+<img width="1024" height="768" alt="05-users-in-aduc" src="https://github.com/user-attachments/assets/50366239-b29a-4c2e-9e1d-855982e362ad" />
 
 
 
